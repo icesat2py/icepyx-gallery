@@ -4,18 +4,14 @@ on:
   # but only for the master branch
   push:
     branches:
-      - enable-gallery
-      - development
-      - master
+      - main
     paths:
       - '*.ipynb'
       - 'binder-gallery.yaml'
       - 'thumbnail.png'
   pull_request:
     branches:
-      - enable-gallery
-      - development
-      - master
+      - main
     paths:
       - '*.ipynb'
       - 'binder-gallery.yaml'
