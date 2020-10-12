@@ -51,6 +51,7 @@ jobs:
           git checkout --orphan ${{ steps.parse.outputs.binderbot_target_branch }}
           git rm --cached -r .
           ls
+          ls supporting_files/
       - name: Build notebooks using Binderbot
         run: |
           python -m binderbot.cli \
