@@ -6,5 +6,5 @@ description: >-
 gallery_repository: pangeo-gallery/pangeo-gallery
 binder_url: "https://mybinder.org"
 binder_repo: salvis2/icepyx-gallery
-binder_ref: enable-gallery
+binder_ref: main
 binderbot_target_branch: binderbot-built
