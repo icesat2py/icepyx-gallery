@@ -1,1 +1,1 @@
-FROM uwhackweeks/icesat2:2020.06.15
+FROM icepyximg/icepyx-gallery-image:c591653ba553
