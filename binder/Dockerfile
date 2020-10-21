@@ -1,1 +1,1 @@
-FROM icepyximg/icepyx-gallery-image:c591653ba553
+FROM icepyximg/icepyx-gallery-image:bd6cbd86ef2f
