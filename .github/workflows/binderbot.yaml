@@ -19,8 +19,6 @@ on:
       - 'thumbnail.png'
       - '.github/workflows/binderbot.yaml'
   workflow_dispatch:
-    inputs:
-      name: manual test of icepyx gallery build
 
 jobs:
   build:
